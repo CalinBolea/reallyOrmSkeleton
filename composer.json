@@ -1,0 +1,14 @@
+{
+  "name": "CalinBolea/reallyOrm",
+  "description": "Really? ORM?",
+  "keywords": ["orm", "php", "pdo", "active record"],
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": { "ReallyOrm\\": "src" }
+  },
+  "require": {
+    "ext-pdo": "*",
+    "phpunit/phpunit": "^8.0"
+  }
+}
