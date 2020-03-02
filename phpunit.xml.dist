@@ -17,9 +17,6 @@
     </php>
 
     <testsuites>
-<!--        <testsuite name="Package Testsuite">-->
-<!--            <directory>./vendor/bancatransilvania/*/Tests/</directory>-->
-<!--        </testsuite>-->
         <testsuite name="Project Testsuite">
             <directory>./tests/</directory>
         </testsuite>
